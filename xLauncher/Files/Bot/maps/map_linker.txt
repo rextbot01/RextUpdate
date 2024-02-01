@@ -1,0 +1,51 @@
+432 685 metin2_map_c1 metin2_map_guild_03 9012 0|0|0
+432 685 metin2_map_c1 map_a2 9012 0|0|1 
+432 685 metin2_map_c1 metin2_map_n_desert_01 9012 0|0|2
+432 685 metin2_map_c1 map_n_snowm_01 9012 0|0|3 
+432 685 metin2_map_c1 metin2_map_n_flame_01 9012 0|0|4
+519 512 metin2_map_b1 metin2_map_guild_02 9012 0|0|0
+519 512 metin2_map_b1 map_a2 9012 0|0|1 
+519 512 metin2_map_b1 metin2_map_n_desert_01 9012 0|0|2
+519 512 metin2_map_b1 map_n_snowm_01 9012 0|0|3 
+519 512 metin2_map_b1 metin2_map_n_flame_01 9012 0|0|4
+555 625 metin2_map_a1 metin2_map_guild_01 9012 0|0|0
+555 625 metin2_map_a1 map_a2 9012 0|0|1 
+555 625 metin2_map_a1 metin2_map_n_desert_01 9012 0|0|2
+555 625 metin2_map_a1 map_n_snowm_01 9012 0|0|3 
+555 625 metin2_map_a1 metin2_map_n_flame_01 9012 0|0|4
+920 610 metin2_map_n_desert_01 metin2_map_a1 9012 0|0|0
+920 610 metin2_map_n_desert_01 metin2_map_b1 9012 0|0|0
+920 610 metin2_map_n_desert_01 metin2_map_c1 9012 0|0|0
+780 620 map_n_snowm_01 metin2_map_a1 9012 0|0|0
+780 620 map_n_snowm_01 metin2_map_b1 9012 0|0|0
+780 620 map_n_snowm_01 metin2_map_c1 9012 0|0|0
+800 900 map_a2 metin2_map_c1 9012 0|0|0
+800 900 map_a2 metin2_map_b1 9012 0|0|0
+800 900 map_a2 metin2_map_a1 9012 0|0|0
+161 943 metin2_map_milgyo map_a2 0
+767 792 map_a2 metin2_map_milgyo 0  
+120 730 metin2_map_n_flame_01 metin2_map_a1 9012 0|0|0
+120 730 metin2_map_n_flame_01 metin2_map_b1 9012 0|0|0
+120 730 metin2_map_n_flame_01 metin2_map_c1 9012 0|0|0
+405 73 metin2_map_a1 metin2_map_a3 0
+876 1127 metin2_map_b1 metin2_map_b3 0
+137 126 metin2_map_c1 metin2_map_c3 0
+948 804 metin2_map_a3 metin2_map_a1 0
+106 88 metin2_map_b3 metin2_map_b1 0
+901 151 metin2_map_c3 metin2_map_c1 0
+350 175 metin2_map_guild_01 metin2_map_a1 9012 0|0|0
+250 240 metin2_map_guild_02 metin2_map_b1 9012 0|0|0
+280 240 metin2_map_guild_03 metin2_map_c1 9012 0|0|0
+1012 1329 metin2_map_n_desert_01 metin2_map_monkeydungeon_02 0
+832 531 metin2_map_n_desert_01 metin2_map_monkeydungeon_03 0
+1425 1477 metin2_map_n_desert_01 metin2_map_spiderdungeon 0 
+1477 1357 metin2_map_n_desert_01 metin2_map_WL_01 0
+92 89 metin2_map_WL_01 metin2_map_n_desert_01 0
+88 82 metin2_map_spiderdungeon metin2_map_n_desert_01 0
+73 120 metin2_map_monkeydungeon metin2_map_c3 0
+73 120 metin2_map_monkeydungeon metin2_map_a3 0
+73 120 metin2_map_monkeydungeon metin2_map_b3 0
+73 120 metin2_map_monkeydungeon_02 metin2_map_n_desert_01 0
+72 115 metin2_map_monkeydungeon_03 metin2_map_n_desert_01 0
+45 446 metin2_map_trent metin2_map_trent02 0
+707 710 metin2_map_trent02 metin2_map_trent 0
