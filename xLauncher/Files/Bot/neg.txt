@@ -1,4 +1,4 @@
-@Resources/clients#Resources/clients/v1-0@Resources/ayar
+@Resources/ayar
 #Resources/ayar/v1-0
 @Resources/maps
 #Resources/maps/catacomb_dungeon.jpg-236155
@@ -127,7 +127,7 @@
 #Resources/maps/Waypoints/metin2_map_trent.dat-262656
 #Resources/maps/Waypoints/metin2_map_trent02.dat-1049600
 @Resources/rota
-#Resources/rota/v1-0
+#Resources/rota/v1-0@Resources/clients#Resources/clients/v1-0
 @Resources/ssl
 #Resources/ssl/libeay32.dll-1380864
 #Resources/ssl/libeay34.dll-248320
