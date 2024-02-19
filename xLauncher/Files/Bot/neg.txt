@@ -1,4 +1,4 @@
-@Resources/ayar
+@Resources/clients#Resources/clients/v1-0@Resources/ayar
 #Resources/ayar/v1-0
 @Resources/maps
 #Resources/maps/catacomb_dungeon.jpg-236155
