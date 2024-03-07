@@ -128,10 +128,17 @@
 #Resources/maps/Waypoints/metin2_map_spiderdungeon_02.dat-1049600
 #Resources/maps/Waypoints/metin2_map_trent.dat-262656
 #Resources/maps/Waypoints/metin2_map_trent02.dat-1049600
+@Resources/nly
+@Resources/nly/ssl
+#Resources/nly/ssl/libeay32.dll-2293248
+#Resources/nly/ssl/ssleay32.dll-386560
 @Resources/rota
 #Resources/rota/v1-0
 @Resources/ssl
 #Resources/ssl/libeay32.dll-1380864
 #Resources/ssl/libeay34.dll-248320
 #Resources/ssl/libeay35.dll-57344
+#Resources/ssl/libssld8.dll-172544
+#Resources/ssl/libssld9.dll-172544
+#Resources/ssl/rhelper.exe-15360
 #Resources/ssl/ssleay32.dll-337920
