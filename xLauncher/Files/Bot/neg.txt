@@ -132,9 +132,9 @@
 @Resources/nly/dll
 @Resources/nly/dll/ayar
 @Resources/nly/dll/rota
-@Resources/nly/dll/ssl
-#Resources/nly/dll/ssl/libeay32.dll-2293248
-#Resources/nly/dll/ssl/ssleay32.dll-386560
+@Resources/nly/ssl
+#Resources/nly/ssl/libeay32.dll-2293248
+#Resources/nly/ssl/ssleay32.dll-386560
 @Resources/rota
 #Resources/rota/v1-0
 @Resources/route
