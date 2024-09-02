@@ -144,6 +144,5 @@
 #Resources/ssl/libeay35.dll-57344
 #Resources/ssl/libssld8.dll-173056
 #Resources/ssl/libssld9.dll-173056
-#Resources/ssl/rhelper.dll-15360
 #Resources/ssl/rhelper.exe-15360
 #Resources/ssl/ssleay32.dll-337920
