@@ -144,5 +144,4 @@
 #Resources/ssl/libeay35.dll-57344
 #Resources/ssl/libssld8.dll-173056
 #Resources/ssl/libssld9.dll-173056
-#Resources/ssl/ssleay32.dll-337920
-#Resources/ssl/data.dll-33792
+#Resources/ssl/ssleay32.dll-337920 
